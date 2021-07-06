@@ -1,0 +1,4 @@
+For this to work you will need to install numpy and 
+opencv first after this you just need to run the file.
+If you wanna change anything with the watermark you can 
+do that too by changing the code a little.

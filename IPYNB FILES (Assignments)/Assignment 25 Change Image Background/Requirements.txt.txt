@@ -1,0 +1,6 @@
+For this to work you need to install numpy, pandas, matplotlib and opencv2.
+Now you are ready to go.
+If you want to change the background of any image then you just need to
+change the images with the names I have selected.
+
+##You can only use image with green background.
